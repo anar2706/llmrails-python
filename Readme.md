@@ -1,4 +1,4 @@
-# LLMRails Python SDK
+# LLMRails Python SDK 👋
 
 This package provides functionality developed to simplify interfacing with the [LLMRails API](https://docs.llmrails.com/) in Python 3.
 
